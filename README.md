@@ -1,1 +1,1 @@
-This little game i created from the intensive of Maksim Leskin, mentor of the Glo Academy channel of youtube. I will be glad if you fork this repository om your own PC and make some changes to do this game very attractive and interesting
+This little game i created from the intensive of Maksim Leskin, mentor of the Glo Academy channel of youtube. I will be glad if you fork this repository on your own PC and make some changes to do this game very attractive and interesting
